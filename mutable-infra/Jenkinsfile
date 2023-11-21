@@ -2,4 +2,4 @@
 
 env.REPONAME="Cart"
 env.TFDIR="mutable-infra"
-backendInfra()
+infra()
