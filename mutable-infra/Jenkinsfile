@@ -1,5 +1,5 @@
 @Library('jenkins-shared-library@main') _
 
-env.REPONAME="cart"
+env.REPONAME="Cart"
 env.TFDIR="mutable-infra"
-infra()
+backendinfra()
